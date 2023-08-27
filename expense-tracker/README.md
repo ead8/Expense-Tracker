@@ -10,3 +10,4 @@ npm start
 npm run build
 ```
 
+![expense](https://github.com/ead8/Expense-Tracker/assets/124612983/e7d207f0-9630-4433-9678-cd09315cf19a)
